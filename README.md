@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+just another response
+
+Hello Humans,
+
+  Welcome to the jungle where we all get LIT.
